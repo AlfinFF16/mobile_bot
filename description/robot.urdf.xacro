@@ -3,6 +3,6 @@
 
     <xacro:include filename="inertial_macros.xacro"/>
     <xacro:include filename="robot_core.xacro"/>
-    <xarco:include filename="gazebo_control.xarco"/>
+    <xacro:include filename="gazebo_control.xacro"/>
 
 </robot>
